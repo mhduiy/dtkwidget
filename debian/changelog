@@ -1,3 +1,9 @@
+dtkwidget (6.7.38) unstable; urgency=medium
+
+  * fix: Qt 6.11 compatibility for QCompleter include
+
+ -- zhangkun <zhangkun2@uniontech.com>  Tue, 31 Mar 2026 10:54:57 +0800
+
 dtkwidget (6.7.37) unstable; urgency=medium
 
   * Release 6.7.37
